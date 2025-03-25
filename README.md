@@ -59,10 +59,9 @@ python wordcloud_generator.py
 
 📌 Example Output
 
-![WordCloud Example](example_wordcloud.png)
 
 **Interpretation of the WordCloud**
-"Here is the WordCloud generated from the sample dataset. As you can see, words like 'machine learning,' 'health,' 'NLP,' and 'AI' appear larger, indicating their high frequency and relevance in the text."
+"Here is the WordCloud generated from the sample dataset. As you can see, words like 'machine learning,' 'health,' 'NLP,' and 'AI' etc appear larger, indicating their high frequency and relevance in the text."
 
 ## 🎨 Customization Options
 You can modify the WordCloud settings by editing the `WordCloud()` parameters:
